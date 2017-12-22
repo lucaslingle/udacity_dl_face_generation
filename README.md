@@ -2,7 +2,7 @@
 
 Generate human faces using Deep Convolutional Generative Adversarial Networks. It's practically magic!
 
-![32x32 color](assets/img1.png?raw=true "32x32 color")
+![32x32 color](assets/img3.png?raw=true "32x32 color") ![32x32 color](assets/img2.png?raw=true "32x32 color") ![32x32 color](assets/img1.png?raw=true "32x32 color")
 
 
 ### Remarks
